@@ -111,7 +111,7 @@ window.YaGames = { init: function() {
 </script>
 
 <script>
-var CDN        = "https://cdn.jsdelivr.net/gh/createzalma6z/zeblkn@main/Build";   /* <-- degistir */
+var CDN        = "https://cdn.jsdelivr.net/gh/createzalma6z/zeblkn@d213111/Build";   /* <-- degistir */
 var DATA_PARTS = 9;   /* 65.9MB / 8MB = 9 part */
 var WASM_PARTS = 5;   /* 37.5MB / 8MB = 5 part */
 
